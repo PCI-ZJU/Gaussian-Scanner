@@ -14,3 +14,7 @@ conda activate surfel_splatting
 The data will be available on [here](https://drive.google.com/drive/folders/1Xm55u31-GVZrwEsoHB1IB7p6A-MmzuF_?usp=drive_link)
 
 
+# Overall pipeline
+
+```bash
+python train.py -s <path to dataset> -m output/<dataset_type> -r 2
