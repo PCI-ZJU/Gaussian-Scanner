@@ -8,9 +8,9 @@ git clone https://github.com/PCI-ZJU/Gaussian-Scanner.git
 
 conda env create --file environment.yml
 conda activate surfel_splatting
-
+```
 
 # Datasets
 The data will be available on [here](https://drive.google.com/drive/folders/1Xm55u31-GVZrwEsoHB1IB7p6A-MmzuF_?usp=drive_link)
 
-#
+
